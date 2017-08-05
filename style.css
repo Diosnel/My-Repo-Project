@@ -1,0 +1,49 @@
+/* Sur Arriba .net */
+
+section {
+  height: auto;
+}
+
+#cover {
+  background: url('img/stars.jpg') center center no-repeat;
+  background-size: cover;
+  color: white;
+  text-align: center;
+  display: flex;
+  align-items: center;
+}
+
+#cover-caption {
+  width: 100%;
+}
+
+#col {
+  text-align: center;
+  display: flex;
+  align-items: center;
+}
+
+#nosotros {
+  background: url('img/telescope.jpg') center center no-repeat;
+  background-height: 100vh;
+  color: white;
+}
+
+#grupo {
+  background: url('img/map.jpg') center center no-repeat;
+  background-size: cover;
+  color: white;
+  display: flex;
+  align-items: center;
+}
+
+#contacto {
+  background: url('img/nota.png') center center no-repeat;
+  background-height: 100vh;
+  display: flex;
+  align-items: center;
+}
+
+p {
+  text-align: justify;
+}
